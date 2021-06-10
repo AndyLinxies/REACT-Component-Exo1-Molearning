@@ -2,7 +2,8 @@
     border: solid 1px  #7fee9b;
     background-color:  #383838;
     color: white;
-    margin-left: 2%
+    margin-left: 2%;
+    cursor: pointer;
 }
 
 .linkZ{
