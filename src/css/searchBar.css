@@ -1,0 +1,16 @@
+.search{
+    margin-right: 2%;
+}
+
+
+.search > button{
+    background-color: #7fee9b;
+    margin-left: 5px;
+}
+.search > input{
+    margin-left: 5px;
+}
+
+.search > span{
+    color: white
+}
